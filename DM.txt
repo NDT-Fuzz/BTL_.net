@@ -1,0 +1,20 @@
+Tong quan
+
+Danh Muc	
+	Nhan vien
+	Nha Cung Cap	
+	San Pham
+Hoa Don
+	Hoa DOn Ban
+	Phieu Nhap Hang
+Tim Kiem
+	Khach Hang
+	San Pham
+	Hoa DOn Ban Hang
+	Hoa Don Nhap Hang
+Bao Cao
+	Bao Cao Ban Hang
+	Bao Cao Ton Kho
+	Bao Cao Thu CHi
+Thoat
+Chiến lược đại dương xanh đỏ
